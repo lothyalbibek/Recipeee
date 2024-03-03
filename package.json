@@ -1,0 +1,22 @@
+{
+  "name": "recipeee",
+  "version": "1.0.0",
+  "description": "RECIPE APP",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "BIBEK SINGH LOTHYAL",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.12.0"
+  },
+  "dependencies": {
+    "sass": "^1.69.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "recipe app"
+  }
+}
